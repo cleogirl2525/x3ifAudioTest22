@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "x3ifAudioTest22" ] },
+    "summary": { "en": [ "Test for audio manifest" ] },
+    "items": [
+    ]
+}
